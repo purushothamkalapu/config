@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "welcome to EazyBank loans related Prod APIs"
+  contactDetails:
+    name: "Sri - Prod Lead"
+    email: "srikalapu86@gmail.com"
+  onCallSupport:
+    - 9858484844
+    - 8487548754

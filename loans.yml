@@ -1,0 +1,10 @@
+loans:
+  message: "welcome to EazyBank Loans related local APIs"
+  contactDetails:
+    name: "Kalapu - Dev Lead"
+    email: "srikalapu86@gmail.com"
+  onCallSupport:
+    - 9030225696
+    - 9666338488
+build:
+  version: "3.0"

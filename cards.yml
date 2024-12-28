@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "welcome to EazyBank Cards related local APIs"
+  contactDetails:
+    name: "Purushotham - Developer"
+    email: "srikalapu86@gmail.com"
+  onCallSupport:
+    - 9030225696
+    - 9666338488

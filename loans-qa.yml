@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "welcome to EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "purushotham - QA Lead"
+    email: "srikalapu86@gmail.com"
+  onCallSupport:
+    - 9554454544
+    - 7894545454

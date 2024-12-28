@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "welcome to EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Purushotham - Developer"
+    email: "srikalapu86@gmail.com"
+  onCallSupport:
+    - 9030225696
+    - 9666338488
+
+
