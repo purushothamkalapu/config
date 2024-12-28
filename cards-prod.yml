@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "welcome to EazyBank Cards related Prod APIs"
+  message: "welcome to EazyBank Cards related webhook APIs"
   contactDetails:
     name: "Sri - Prod Lead"
     email: "srikalapu86@gmail.com"
