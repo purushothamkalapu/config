@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "welcome to EazyBank accounts related Prod APIs"
+  message: "welcome to EazyBank accounts related Production APIs"
   contactDetails:
     name: "Kalapu - Prod lead"
     email: "{chipher}45af5d18bf21859e75fcc52698a17c419034066023ec6f471f39e147ca83a55e4f287f81b27f8a63149fc59eeeb164fe"
