@@ -1,11 +1,10 @@
 build:
   version: "3.0"
-
 cards:
-  message: "welcome to EazyBank Cards related local APIs"
+  message: "Welcome to EazyBank cards related local APIs "
   contactDetails:
-    name: "Purushotham - Developer"
-    email: "srikalapu86@gmail.com"
+    name: "John Doe - Developer"
+    email: "john@eazybank.com"
   onCallSupport:
-    - 9030225696
-    - 9666338488
+    - (555) 555-1234
+    - (555) 523-1345
