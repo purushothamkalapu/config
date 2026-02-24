@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "welcome to EazyBank Cards related QA APIs"
+  message: "welcome to EazyBank Cards related hookdeck APIs"
   contactDetails:
     name: "Sri - QA Lead"
     email: "srikalapu86@gmail.com"
