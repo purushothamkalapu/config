@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to EazyBank accounts related Producation APIs "
+  message: "Welcome to EazyBank accounts related HookDock APIs "
   contactDetails:
     name: "Purushotham - Developer"
     email: "{cipher}0962326316b905c2ab3c64078568e13efced3360ee0ef80c533d093633b6e2b75b56e28c5b49a97018b970cd79a0b3db"
